@@ -5,7 +5,8 @@ function App() {
   const [data, setData] = useState({});
   const [location, setLocation] = useState("");
 
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=b5279e340685fb42d67ec895745f315d`;
+  const apiKey = import.meta.env.VITE_OPENWEATHER_API_KEY;
+  const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=${apiKey}`;
 
   // Function to Search Location for weather
   const searchLocation = (event) => {

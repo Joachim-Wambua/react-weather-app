@@ -4,7 +4,7 @@
 
 <div align="center" >
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://seeklogo.com/images/O/openweather-logo-3CE20F48B5-seeklogo.com.png" alt="openweathermapapi" />
+    <img src="https://seeklogo.com/images/O/openweather-logo-3CE20F48B5-seeklogo.com.png" alt="openweathermapapi" width="150px"/>
 </div>
 
 ## Overview

@@ -4,12 +4,12 @@
 
 <div align="center" >
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://seeklogo.com/images/O/openweather-logo-3CE20F48B5-seeklogo.com.png" alt="openweathermapapi" width="150px"/>
+    <img src="https://seeklogo.com/images/O/openweather-logo-3CE20F48B5-seeklogo.com.png" alt="openweathermapapi" width="100px"/>
 </div>
 
 ## Overview
 
-Welcome to the Weather Application built with ReactJS and powered by the OpenWeatherMapAPI. This simple and user-friendly app allows users to search for cities and retrieve real-time weather data, providing a quick and convenient way to stay updated on the current weather conditions.
+Welcome to the Weather Application built with ReactJS and powered by the OpenWeatherMapAPI. This simple and user-friendly app allows users to search for cities and 4retrieve real-time weather data, providing a quick and convenient way to stay updated on the current weather conditions.
 
 ## Features
 

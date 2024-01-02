@@ -9,7 +9,7 @@
 
 ## Overview
 
-Welcome to the Weather Application built with ReactJS and powered by the OpenWeatherMapAPI. This simple and user-friendly app allows users to search for cities and 4retrieve real-time weather data, providing a quick and convenient way to stay updated on the current weather conditions.
+Welcome to the Weather Application built with ReactJS and powered by the OpenWeatherMapAPI. This simple and user-friendly app allows users to search for cities and retrieve real-time weather data, providing a quick and convenient way to stay updated on the current weather conditions.
 
 ## Features
 
